@@ -9,6 +9,8 @@ header {
     padding: 50px 0 50px 0;
 }
 
+/* page content begin */
+
 p {
     text-align: justify;
 }
@@ -20,7 +22,18 @@ p {
     padding: 0 0 60px;
 }
 
+/* page content end */
+
+/* footer begin */
+
 #footer {
     height: 60px;
-    background-color: grey;
+    background-color: #E2E2E2;
 }
+
+#footer p {
+    text-align: center;
+    margin: 20px auto;
+}
+
+/* footer END */
