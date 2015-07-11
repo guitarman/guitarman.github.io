@@ -1,0 +1,14 @@
+title: guitarman.sk
+email: guitarman@guitarman.sk
+
+description: "guitarman's personal web page"
+baseurl: ""
+url: "http://guitarman.sk"
+
+timezone: "Europe/Bratislava"
+
+markdown: kramdown
+exclude:
+  - README.md
+  - CNAME
+  - index.old.html
