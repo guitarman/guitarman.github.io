@@ -1,7 +1,12 @@
 ---
-desc: scripts
+desc: custom js scripts
 ---
+$(document).ready =>
+  resizeTopSection()
 
 $(window).on 'resize', =>
-  height = $(window).height();
-  $('.top-section').height(height);
+  resizeTopSection()
+
+resizeTopSection = ->
+  height = $(window).height()
+  $('.top-section').height(height)
