@@ -1,12 +1,6 @@
 html,
 body {
-    height: 100%;
-}
-
-header {
-    /*background-color: #3F7C8F;*/
-    text-align: center;
-    padding: 50px 0 50px 0;
+  height: 100%;
 }
 
 /* page content begin */
@@ -15,11 +9,31 @@ p {
     text-align: justify;
 }
 
-#wrap {
-    min-height: 100%;
-    height: auto;
-    margin: 0 auto -60px;
-    padding: 0 0 60px;
+#container {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+
+.top-section {
+  height: 900px;
+  text-align: center;
+}
+
+.intro {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.intro-text {
+  padding-top: 20px;
 }
 
 /* page content end */
@@ -27,13 +41,13 @@ p {
 /* footer begin */
 
 #footer {
-    #height: 60px;
-    background-color: #E2E2E2;
+  #height: 60px;
+  background-color: #E2E2E2;
 }
 
 #footer p {
-    text-align: center;
-    margin: 20px auto;
+  text-align: center;
+  margin: 20px auto;
 }
 
 /* footer END */
