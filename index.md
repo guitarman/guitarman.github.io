@@ -6,12 +6,10 @@ desc: guitarman's personal webpage
 ---
 <section class="top-section">
   <div class="intro">
-    <div class="intro-image">
-      <img src="images/guitarman.png" alt="guitarman" class="img-circle">
-    </div>
-    <div class="intro-text">
+    <img src="images/guitarman.png" alt="guitarman" class="img-circle">
+    <p class="intro-text">
       <em>Ruby on Rails and JavaScript programmer, photography enthusiast, music lover and runner</em>
-    </div>
+    </p>
   </div>
 </section>
 
