@@ -8,7 +8,9 @@ desc: guitarman's personal webpage
   <div class="intro">
     <img src="images/guitarman.png" alt="guitarman" class="img-circle">
     <p class="intro-text">
-      <em>Ruby on Rails and JavaScript programmer, photography enthusiast, music lover and runner</em>
+      Ruby on Rails and JavaScript programmer,
+      <br>
+      photography enthusiast, music lover and runner
     </p>
   </div>
 </section>

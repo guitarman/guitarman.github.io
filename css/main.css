@@ -1,3 +1,8 @@
+@font-face {
+  font-family: visitor;
+  src: url('vendor/visitor2.ttf');
+}
+
 html,
 body {
   height: 100%;
@@ -18,7 +23,8 @@ p {
 }
 
 .top-section {
-  height: 900px;
+  font-family: visitor;
+  font-size: 26px;
   text-align: center;
 }
 
