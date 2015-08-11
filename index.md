@@ -12,6 +12,13 @@ desc: guitarman's personal webpage
       <br>
       photography enthusiast, music lover and runner
     </p>
+    <div class="row">
+      <div class="col-sm-12">
+        <a href="https://sk.linkedin.com/in/jantoth" target="_blank"><i class="fa fa-linkedin"></i></a>
+        <a href="https://github.com/guitarman" target="_blank"><i class="fa fa-github-alt"></i></a>
+        <a href="https://twitter.com/guitarman201" target="_blank"><i class="fa fa-twitter"></i></a>
+      </div>
+    </div>
   </div>
 </section>
 

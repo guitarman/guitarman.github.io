@@ -43,6 +43,18 @@ p {
   padding-top: 20px;
 }
 
+.fa {
+  padding: 0 5px 0 5px;
+}
+
+.intro a{
+  color: #333;
+}
+
+.intro a:hover{
+  color: #2a6496;
+}
+
 /* page content end */
 
 /* footer begin */
