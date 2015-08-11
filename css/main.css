@@ -1,6 +1,6 @@
 @font-face {
   font-family: visitor;
-  src: url('vendor/visitor2.ttf');
+  src: url('../fonts/visitor2.ttf');
 }
 
 html,
