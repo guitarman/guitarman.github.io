@@ -10,3 +10,4 @@ $(window).on 'resize', =>
 resizeTopSection = ->
   height = $(window).height()
   $('.top-section').height(height)
+  $('.more-info').height(height-120)
