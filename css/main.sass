@@ -5,9 +5,13 @@
   font-family: visitor
   src: url('../fonts/visitor2.ttf')
 
+$silver-color: #e4e4e4
+$navigation-link-size: 8pt
+$text-font: 'Droid Serif', serif
+
 html, body
   height: 100%
-  font-family: 'Droid Serif', serif
+  font-family: $text-font
 
 /* page content begin */
 
@@ -24,7 +28,8 @@ html, body
     font-family: visitor
     font-size: 26px
     text-align: center
-    background-color: #e4e4e4
+    background-color: $silver-color
+    positon: relative
 
     .intro
       height: 300px
@@ -50,10 +55,26 @@ html, body
         &:hover
           color: #2a6496
 
+    .more-info-link
+      position: absolute
+      bottom: 10px
+      width: 100%
+      text-align: center
+      font-family: $text-font
+      font-size: $navigation-link-size
+
   .more-info
     margin-top: 30px
     margin-bottom: 30px
     text-align: justify
+    position: relative
+
+    .back-to-top-link
+      position: absolute
+      bottom: -20px
+      width: 100%
+      text-align: center
+      font-size: $navigation-link-size
 
 /* page content end */
 
@@ -61,7 +82,7 @@ html, body
 
 #footer
   #height: 60px
-  background-color: #e4e4e4
+  background-color: $silver-color
 
   p
     text-align: center

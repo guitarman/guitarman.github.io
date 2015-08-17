@@ -20,9 +20,12 @@ desc: guitarman's personal webpage
       </div>
     </div>
   </div>
+  <div class="more-info-link">
+    <a href="#">Read more</a>
+  </div>
 </section>
 
-<section class="more-info">
+<section class="more-info" id="more">
   <div class="container lead">
 
     I am Ján. I live in <a href="http://goo.gl/maps/Rpkyr" target="_blank">Bratislava, Slovakia</a> and work as
@@ -71,5 +74,9 @@ desc: guitarman's personal webpage
             - see what I listen to
         </li>
     </ul>
+  </div>
+
+  <div class="back-to-top-link">
+    <a href="#">Back to top</a>
   </div>
 </section>
