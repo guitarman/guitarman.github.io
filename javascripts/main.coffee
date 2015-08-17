@@ -18,7 +18,10 @@ $(window).on 'resize', =>
 resizeSections = ->
   height = $(window).height()
   $('.top-section').height(height)
-  $('.more-info').height(height-120)
+  if parseInt(height) > 610
+    $('.more-info').height(height-120)
+  else
+    $('.more-info').height(490)
 
 scrollToSection = (sectionId) ->
   $('html, body').animate
