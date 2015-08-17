@@ -1,0 +1,96 @@
+---
+---
+
+@font-face
+  font-family: visitor
+  src: url('../fonts/visitor2.ttf')
+
+$silver-color: #e4e4e4
+$navigation-link-size: 8pt
+$text-font: 'Droid Serif', serif
+
+html, body
+  height: 100%
+  font-family: $text-font
+
+/* page content begin */
+
+#container
+  min-height: 100%
+  height: auto
+  margin: 0 auto -60px
+  padding: 0 0 60px
+
+  p
+    text-align: justify
+
+  .top-section
+    font-family: visitor
+    font-size: 18px
+    text-align: center
+    background-color: $silver-color
+    positon: relative
+    @media (max-width: 480px)
+      font-size: 16px
+    @media (min-width: 768px)
+      font-size: 26px
+
+    .intro
+      height: 300px
+      position: absolute
+      margin: auto
+      top: 0
+      left: 0
+      right: 0
+      bottom: 0
+
+      img
+        border: 1px solid white
+
+      .intro-text
+        text-align: center
+        padding-top: 20px
+
+      .fa
+        padding: 0 5px 0 5px
+
+      a
+        color: #333
+        &:hover
+          color: #2a6496
+
+    .more-info-link
+      position: absolute
+      bottom: 10px
+      width: 100%
+      text-align: center
+      font-family: $text-font
+      font-size: $navigation-link-size
+
+  .more-info
+    margin-top: 30px
+    margin-bottom: 30px
+    text-align: justify
+    position: relative
+
+    .back-to-top-link
+      position: absolute
+      bottom: -20px
+      width: 100%
+      text-align: center
+      font-size: $navigation-link-size
+
+
+/* page content end */
+
+/* footer begin */
+
+#footer
+  #height: 60px
+  background-color: $silver-color
+
+  p
+    text-align: center
+    margin: 20px auto
+
+/* footer END */

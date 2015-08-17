@@ -1,0 +1,12 @@
+- _id: 1
+  name: 'Confident Ruby: 32 Patterns for Joyful Coding'
+  author: Audi Grimm
+  link: http://www.amazon.com/Confident-Ruby-Patterns-Joyful-Coding-ebook/dp/B00ETE0D2S
+- _id: 2
+  name: Building Microservices
+  author: Sam Newman
+  link: http://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B00T3N7XB4
+- _id: 3
+  name: Eloquent Ruby
+  author: Russ Olsen
+  link: http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104
