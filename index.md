@@ -30,7 +30,7 @@ desc: guitarman's personal webpage
 
     I am Ján. I live in <a href="http://goo.gl/maps/Rpkyr" target="_blank">Bratislava, Slovakia</a> and work as
     Ruby on Rails and JavaScript developer. At home I also work on my small personal projects. In my free time I try
-    to read as many books as possible. Right now I am reading:
+    to read as many books as possible. Here are some of my latest interest:
 
     <ul>
       {% for book in site.data.it_books %}
@@ -44,9 +44,10 @@ desc: guitarman's personal webpage
   <div class="container lead">
 
     {% assign book = site.data.hobby_books.last %}
-    When I am not devoting my time to IT, I love reading fantasy books (I&nbsp;am huge Tolkien fan), right now I am reading
+    You can find more on my goodreads <a href="https://www.goodreads.com/jantoth" target="_blank">page</a>. When I am not
+    devoting my time to IT, I love reading fantasy books (I&nbsp;am huge Tolkien fan), recently I was thrilled by
     <a href="{{ book.link }}" target="_blank">{{ book.name }}</a> saga.
-    I have also passion for photography, music, playing guitar, hiking and nature.
+    I have also passion for running, photography, music, playing guitar and hiking.
 
   </div>
 
