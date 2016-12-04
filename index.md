@@ -57,9 +57,9 @@ desc: guitarman's personal webpage
 
     <ul>
         <li>
-            <a href="http://guitarman.zenfolio.com" target="_blank">Zenfolio</a>,
+            <!-- <a href="http://guitarman.zenfolio.com" target="_blank">Zenfolio</a>, -->
             <a href="https://www.flickr.com/photos/guitarman201/albums" target="_blank">Flickr</a>
-            - my personal galleries
+            - my personal gallery
         </li>
         <li>
             <a href="http://500px.com/guitarman201" target="_blank">500px</a>
