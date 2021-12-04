@@ -2,7 +2,7 @@
 layout: page
 class: index
 title: guitarman.sk
-desc: guitarman's personal webpage
+description: guitarman's personal webpage
 ---
 <section class="top-section">
   <div class="intro">
