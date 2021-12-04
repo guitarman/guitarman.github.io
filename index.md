@@ -14,7 +14,7 @@ desc: guitarman's personal webpage
     </p>
     <div class="row">
       <div class="col-sm-12">
-        <!--<a href="https://sk.linkedin.com/in/jantoth" target="_blank"><i class="fab fa-linkedin"></i></a>-->
+        <a href="https://sk.linkedin.com/in/jantoth" target="_blank"><i class="fab fa-linkedin"></i></a>
         <a href="https://github.com/guitarman" target="_blank"><i class="fab fa-github-alt"></i></a>
         <a href="https://twitter.com/guitarman201" target="_blank"><i class="fab fa-twitter"></i></a>
         <a href="https://500px.com/guitarman201" target="_blank"><i class="fab fa-500px"></i></a>
