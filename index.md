@@ -8,9 +8,9 @@ description: guitarman's personal webpage
   <div class="intro">
     <img src="images/guitarman.png" alt="guitarman" class="img-circle">
     <p class="intro-text">
-      Ruby on Rails and JavaScript programmer, geek<br>
-      book addict, fantasy &amp; sci-fi lover<br>
-      photography enthusiast, music lover and runner
+      programmer<br>
+      nerd<br>
+      photography enthusiast
     </p>
     <div class="row">
       <div class="col-sm-12">
